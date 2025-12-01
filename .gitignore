@@ -1,0 +1,6 @@
+﻿bin/
+obj/
+publish/
+installer/*.exe
+*.pdb
+*.dll
